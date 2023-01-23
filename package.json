@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://IhorLeonov.github.io/project_group_20",
+  "homepage": "https://smolianko2503.github.io/goit-js-hw-09",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project_group_20/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IhorLeonov/project_group_20.git"
+    "url": "git+https://github.com/smolianko2503/goit-js-hw-09.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IhorLeonov/project_group_20/issues"
+    "url": "https://github.com/smolianko2503/goit-js-hw-09/issues"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
