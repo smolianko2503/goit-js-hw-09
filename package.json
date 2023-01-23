@@ -1,0 +1,34 @@
+{
+  "name": "parcel-project-template",
+  "version": "2.0.0",
+  "description": "",
+  "homepage": "https://IhorLeonov.github.io/project_group_20",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /project_group_20/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhorLeonov/project_group_20.git"
+  },
+  "keywords": [],
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IhorLeonov/project_group_20/issues"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "flatpickr": "^4.6.13",
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.6"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "@parcel/transformer-webmanifest": "^2.6.0",
+    "parcel": "^2.6.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}
