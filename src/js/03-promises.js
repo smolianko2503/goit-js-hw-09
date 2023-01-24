@@ -14,6 +14,7 @@ function onCreatePromises(evt) {
   }
 
   cyclePromises(dataInput)
+  form.reset();
 };
 
 function cyclePromises({ delay, step, amount }) {
